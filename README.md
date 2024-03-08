@@ -1,7 +1,7 @@
 
 # Solana-Liquidity-Manager-with-JITO-Bundles
 
-Hello, I have build a **fully functionable Self Bundle Program** with which you can create Liquidity Pools via **Raydium** and be the **first buying transaction within this created Pool**. **1st tx is guaranteed!** Comes with detailed **Guide**.
+Hello, I have build a **fully functionable Self Bundle Program** with which you can create Liquidity Pools via **Raydium** and be the **first buying ( snipe ) transaction within this created Pool**. **1st tx is guaranteed!** Comes with detailed **Guide**.
 
 # All functions:
 
